@@ -7,7 +7,7 @@ and useing GR-SAKURA Sketch Template Version: V1.08
 https://youtu.be/-K8TNz1Fwec
 
 
- [Ornamental Gamma Spectrometer with LED-Illumination]
+Ornamental Gamma Spectrometer with LED-Illumination
 
     This work woll display the gamma beam detection visually and am the suggestion of the interior/ornamental light letting you feel normal as healing.
 
