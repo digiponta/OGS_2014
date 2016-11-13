@@ -9,6 +9,6 @@ https://youtu.be/-K8TNz1Fwec
 
 Interior/Ornamental Gamma-ray Spectrometer with LED-Illumination
 
-This work woll display the gamma-ray detection visually and am the suggestion of the interior/ornamental light letting you feel normal as healing.
+This work will display the gamma-ray detection visually and is the suggestion of the interior/ornamental light letting you feel normal as healing.
 NaI scintillator and a photomultiplier tube detect the gamma beam. The full color LED emits light with the hue mapping to the energy level for the detection with more than of given energy. GR-SAKURA measures the detection puls from a photomultiplier tube through a pulse width extension circuit and controls LED illumination (Serial Full Color LED).While the given energy level will be adjusted with detecting a time par some minutes, because low level gamma-rays are much in the nature. 
 
